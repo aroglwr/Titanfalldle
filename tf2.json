@@ -1,0 +1,363 @@
+{
+    "data":{
+        "weapons":{
+            "pilot":{
+                "G2A5":{
+                    "damage":90,
+                    "accuracy":85,
+                    "range":65,
+                    "rof":33,
+                    "capacity":14,
+                    "unlock":35,
+                    "class":"AR",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/f/f0/Icon_g2a5.png"
+                },
+                "Hemlok BF-R":{
+                    "damage":75,
+                    "accuracy":80,
+                    "range":65,
+                    "rof":80,
+                    "capacity":24,
+                    "unlock":15,
+                    "class":"AR",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/4/46/Icon_hemlok.png"
+                },
+                "R-101 Carbine":{
+                    "damage":55,
+                    "accuracy":90,
+                    "range":65,
+                    "rof":80,
+                    "capacity":24,
+                    "unlock":0,
+                    "class":"AR",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/e/eb/Icon_r101.png"
+                },
+                "R-201 Carbine":{
+                    "damage":55,
+                    "accuracy":90,
+                    "range":65,
+                    "rof":80,
+                    "capacity":24,
+                    "unlock":0,
+                    "class":"AR",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/d/d0/Icon_r201.png"
+                },
+                "V-47 Flatline":{
+                    "damage":70,
+                    "accuracy":45,
+                    "range":65,
+                    "rof":60,
+                    "capacity":30,
+                    "unlock":47,
+                    "class":"AR",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/0/07/Icon_flatline.png"
+                },
+                "Alternator":{
+                    "damage":75,
+                    "accuracy":50,
+                    "range":40,
+                    "rof":60,
+                    "capacity":20,
+                    "unlock":8,
+                    "class":"SMG",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/a/a1/Icon_alternator.png"
+                },
+                "CAR":{
+                    "damage":40,
+                    "accuracy":85,
+                    "range":40,
+                    "rof":70,
+                    "capacity":30,
+                    "unlock":0,
+                    "class":"SMG",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/3/3a/Icon_car.png"
+                },
+                "R-97 Compact SMG":{
+                    "damage":35,
+                    "accuracy":22,
+                    "range":40,
+                    "rof":100,
+                    "capacity":40,
+                    "unlock":41,
+                    "class":"SMG",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/e/e6/Icon_r97.png"
+                },
+                "Volt":{
+                    "damage":35,
+                    "accuracy":90,
+                    "range":40,
+                    "rof":38,
+                    "capacity":33,
+                    "unlock":27,
+                    "class":"SMG",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/4/4b/Icon_volt.png"
+                },
+                "L-STAR":{
+                    "damage":45,
+                    "accuracy":34,
+                    "range":75,
+                    "rof":45,
+                    "capacity":-1,
+                    "unlock":2,
+                    "class":"LMG",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/f/f9/Icon_lstar.png"
+                },
+                "Spitfire":{
+                    "damage":50,
+                    "accuracy":39,
+                    "range":75,
+                    "rof":47,
+                    "capacity":80,
+                    "unlock":0,
+                    "class":"LMG",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/5/56/Icon_spitfire.png"
+                },
+                "X-55 Devotion":{
+                    "damage":85,
+                    "accuracy":50,
+                    "range":75,
+                    "rof":50,
+                    "capacity":55,
+                    "unlock":24,
+                    "class":"LMG",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/2/22/Icon_devotion.png"
+                },
+                "D-2 Double Take":{
+                    "damage":83,
+                    "accuracy":76,
+                    "range":100,
+                    "rof":20,
+                    "capacity":12,
+                    "unlock":16,
+                    "class":"Sniper",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/2/21/Icon_doubletake.png"
+                },
+                "Kraber-AP Sniper":{
+                    "damage":100,
+                    "accuracy":60,
+                    "range":100,
+                    "rof":15,
+                    "capacity":4,
+                    "unlock":0,
+                    "class":"Sniper",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/8/8b/Icon_kraber.png"
+                },
+                "Longbow-DMR":{
+                    "damage":90,
+                    "accuracy":84,
+                    "range":100,
+                    "rof":15,
+                    "capacity":4,
+                    "unlock":38,
+                    "class":"Sniper",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/d/dd/Icon_dmr.png"
+                },
+                "EVA-8 Shotgun":{
+                    "damage":70,
+                    "accuracy":30,
+                    "range":20,
+                    "rof":34,
+                    "capacity":6,
+                    "unlock":0,
+                    "class":"Shotgun",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/3/3e/Icon_eva8.png"
+                },
+                "Mastiff":{
+                    "damage":80,
+                    "accuracy":89,
+                    "range":20,
+                    "rof":15,
+                    "capacity":4,
+                    "unlock":19,
+                    "class":"Shotgun",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/a/a2/Icon_mastiff.png"
+                },
+                "EM-4 Cold War":{
+                    "damage":75,
+                    "accuracy":25,
+                    "range":55,
+                    "rof":44,
+                    "capacity":12,
+                    "unlock":45,
+                    "class":"Grenadier",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/2/22/Icon_coldwar.png"
+                },
+                "EPG-1":{
+                    "damage":83,
+                    "accuracy":100,
+                    "range":100,
+                    "rof":17,
+                    "capacity":5,
+                    "unlock":5,
+                    "class":"Grenadier",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/2/29/Icon_epg.png"
+                },
+                "R-6P Softball":{
+                    "damage":71,
+                    "accuracy":65,
+                    "range":66,
+                    "rof":19,
+                    "capacity":6,
+                    "unlock":30,
+                    "class":"Grenadier",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/f/f4/Icon_softball.png"
+                },
+                "Sidewinder SMR":{
+                    "damage":53,
+                    "accuracy":39,
+                    "range":68,
+                    "rof":48,
+                    "capacity":20,
+                    "unlock":0,
+                    "class":"Grenadier",
+                    "slot":"Primary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/a/ae/Icon_smr.png"
+                },
+                "B3 Wingman Elite":{
+                    "damage":88,
+                    "accuracy":36,
+                    "range":40,
+                    "rof":27,
+                    "capacity":6,
+                    "unlock":32,
+                    "class":"Pistol",
+                    "slot":"Secondary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/4/48/Icon_b3wingman.png"
+                },
+                "Hammond P2016":{
+                    "damage":80,
+                    "accuracy":84,
+                    "range":40,
+                    "rof":41,
+                    "capacity":12,
+                    "unlock":0,
+                    "class":"Pistol",
+                    "slot":"Secondary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/1/1c/Icon_p2016.png"
+                },
+                "RE-45 Auto":{
+                    "damage":36,
+                    "accuracy":44,
+                    "range":30,
+                    "rof":69,
+                    "capacity":20,
+                    "unlock":0,
+                    "class":"Pistol",
+                    "slot":"Secondary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/9/95/Icon_re45.png"
+                },
+                "Archer":{
+                    "damage":95,
+                    "accuracy":90,
+                    "range":90,
+                    "rof":15,
+                    "capacity":1,
+                    "unlock":43,
+                    "class":"Anti-Titan",
+                    "slot":"Secondary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/0/0d/Icon_archer.png"
+                },
+                "Charge Rifle":{
+                    "damage":88,
+                    "accuracy":93,
+                    "range":96,
+                    "rof":15,
+                    "capacity":0,
+                    "unlock":0,
+                    "class":"Anti-Titan",
+                    "slot":"Secondary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/0/0c/Icon_chargerifle.png"
+                },
+                "LG-97 Thunderbolt":{
+                    "damage":68,
+                    "accuracy":100,
+                    "range":80,
+                    "rof":12,
+                    "capacity":1,
+                    "unlock":21,
+                    "class":"Anti-Titan",
+                    "slot":"Secondary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/0/0b/Icon_thunderbolt.png"
+                },
+                "MGL Mag Launcher":{
+                    "damage":60,
+                    "accuracy":35,
+                    "range":25,
+                    "rof":50,
+                    "capacity":6,
+                    "unlock":0,
+                    "class":"Anti-Titan",
+                    "slot":"Secondary",
+                    "icon":"https://static.wikia.nocookie.net/titanfall_gamepedia/images/e/e3/Icon_mgl.png"
+                }
+            },
+            "titan":{
+
+            }
+        },
+        "abilities":{
+            "ordnance":{
+
+            },
+            "tactical":{
+
+            },
+            "boost":{
+
+            }
+        },
+        "titans":{
+
+        }
+    },
+    "keys":{
+        "0":"G2A5",
+        "1":"Hemlok BF-R",
+        "2":"R-101 Carbine",
+        "3":"R-201 Carbine",
+        "4":"V-47 Flatline",
+        "5":"Alternator",
+        "6":"CAR",
+        "7":"R-97 Compact SMG",
+        "8":"Volt",
+        "9":"L-STAR",
+        "10":"Spitfire",
+        "11":"X-55 Devotion",
+        "12":"D-2 Double Take",
+        "13":"Kraber-AP Sniper",
+        "14":"Longbow-DMR",
+        "15":"EVA-8 Shotgun",
+        "16":"Mastiff",
+        "17":"EM-4 Cold War",
+        "18":"EPG-1",
+        "19":"R-6P Softball",
+        "20":"Sidewinder SMR",
+        "21":"B3 Wingman Elite",
+        "22":"Hammond P2016",
+        "23":"RE-45 Auto",
+        "24":"Archer",
+        "25":"Charge Rifle",
+        "26":"LG-97 Thunderbolt",
+        "27":"MGL Mag Launcher"
+    }
+}

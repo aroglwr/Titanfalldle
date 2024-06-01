@@ -1,0 +1,1678 @@
+{
+    "data": {
+        "Air Strike": {
+            "element": "Air",
+            "species": "Air Strike: Unknown  Birdie: Blue Zephyr Falcon",
+            "gender": "Male (both)",
+            "role": "Senseis",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/75/Air_Strike_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Ambush": {
+            "element": "Life",
+            "species": "Mystical Tree-Knight",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Mystical Bamboo Forest",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/85/Ambush_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Astroblast": {
+            "element": "Light",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/34/Astroblast_Promo_Art.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Aurora": {
+            "element": "Light",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/83/Aurora_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Bad Juju": {
+            "element": "Air",
+            "species": "Skeleton Ghost",
+            "gender": "Female (Bad Juju)Male (Juju Junior)",
+            "role": "Villain (Trap Team)Ally (Trap Team)Sensei (Imaginators)",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/cd/BadJuju.png",
+            "appears": "Trap Team"
+        },
+        "Barbella": {
+            "element": "Earth",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Barbella_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Bash": {
+            "element": "Earth",
+            "species": "Rock Dragon",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Bash.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Bat Spin": {
+            "element": "Undead",
+            "species": "Vampire",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/05/Bat_Spin_Promo2.jpg",
+            "appears": "Trap Team"
+        },
+        "Big Bubble Pop Fizz": {
+            "element": "Magic",
+            "species": "Gremlin",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/01/Big_Bubble_Pop_Fizz_Promo.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Blackout": {
+            "element": "Dark",
+            "species": "Dragon",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Realm of Dreams",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/42/Blackout_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Blades": {
+            "element": "Air",
+            "species": "Dragon",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Scalos Castle",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Blades.png",
+            "appears": "Trap Team"
+        },
+        "Blast Zone": {
+            "element": "Fire",
+            "species": "Furnace Knight",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Blast_Zone_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Blaster-Tron": {
+            "element": "Light",
+            "species": "Robot",
+            "gender": "Male",
+            "role": "Villain (Trap Team)Ally (Trap Team)Sensei (Imaginators)",
+            "world": "The Future of Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/86/Blaster-Tron.png",
+            "appears": "Trap Team"
+        },
+        "Blastermind": {
+            "element": "Magic",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Sardonic Mountains",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Blastermind_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Bone Bash Roller Brawl": {
+            "element": "Undead",
+            "species": "Vampire",
+            "gender": "Female",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/39/Bone_Bash_Roller_Brawl_Art.jpg",
+            "appears": "Unexpected Allies"
+        },
+        "Boom Bloom": {
+            "element": "Life",
+            "species": "Mutant Plant",
+            "gender": "Female",
+            "role": "Sensei",
+            "world": "Abandoned Factory",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Boom_Bloom_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Boom Jet": {
+            "element": "Air",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Billowy Cloudplains",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Boom_Jet_Promo_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Boomer": {
+            "element": "Tech",
+            "species": "Troll",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/c4/290px-Boomer_Promo.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Bouncer": {
+            "element": "Tech",
+            "species": "Robot",
+            "gender": "Male",
+            "role": "Giant",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/ec/SG_Illus_Bouncer_Crop_LoRes1.jpg",
+            "appears": "Giants"
+        },
+        "Buckshot": {
+            "element": "Magic",
+            "species": "Sky-Faun",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Buckshot_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Bumble Blast": {
+            "element": "Life",
+            "species": "Anthropomorphic Beehive",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Radiant Mountains",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Bumble_blast.jpg",
+            "appears": "Swap Force"
+        },
+        "Bushwhack": {
+            "element": "Life",
+            "species": "Tree Elf",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Arcadian Timberland",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/68/Bushwhack_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Camo": {
+            "element": "Life",
+            "species": "Plant/Dragon Hybrid",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Tree of Life",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/05/Camo_02.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Chain Reaction": {
+            "element": "Tech",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/89/Chain_Reaction_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Chill": {
+            "element": "Water",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Ice Kingdom",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Skylanders-chill-top630.jpg",
+            "appears": "Giants"
+        },
+        "Chompy Mage": {
+            "element": "Life",
+            "species": "Half-Wizard Half-Gargantuan Chompy",
+            "gender": "Male",
+            "role": "Doom RaiderAlly (Trap Team)Sensei (Imaginators)",
+            "world": "Chompy Mountain",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Chompy_Mage_Promo.jpg",
+            "appears": "Giants"
+        },
+        "Chop Chop": {
+            "element": "Undead",
+            "species": "Arkeyan Skeleton",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Chop_Chop_Promo.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Chopper": {
+            "element": "Tech",
+            "species": "Tyrannosaurus Rex",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/67/Chopper_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Chopscotch": {
+            "element": "Undead",
+            "species": "Ghoul",
+            "gender": "Female",
+            "role": "Sensei",
+            "world": "The Underworld",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Chopscotch.png",
+            "appears": "Imaginators"
+        },
+        "Cobra Cadabra": {
+            "element": "Magic",
+            "species": "Cobra",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Countdown": {
+            "element": "Tech",
+            "species": "Bomb",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Countdown_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Crash Bandicoot": {
+            "element": "Life",
+            "species": "Mutated Bandicoot",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Wumpa Island",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Crash_Bandicoot_Imaginators_Art.jpg",
+            "appears": "Imaginators"
+        },
+        "Crusher": {
+            "element": "Earth",
+            "species": "Rock Golem",
+            "gender": "Male",
+            "role": "Giant",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Crusher.jpg",
+            "appears": "Giants"
+        },
+        "Cynder": {
+            "element": "Undead",
+            "species": "Dragon",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/2/27/Cynder_Promo.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Deep Dive Gill Grunt": {
+            "element": "Water",
+            "species": "Gillman",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/5/59/Deep_Dive_Gill_Grunt.jpg",
+            "appears": "Rift into Overdrive"
+        },
+        "Dino-Rang": {
+            "element": "Earth",
+            "species": "Dinosaur",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/32/Dino-Rang.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Dive-Clops": {
+            "element": "Water",
+            "species": "Flying Eyeball",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/72/Dive-Clops_Promo.jpg",
+            "appears": "Rift into Overdrive"
+        },
+        "Doom Stone": {
+            "element": "Earth",
+            "species": "Sentient Stone Statue",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/14/Doom_Stone_Promo.jpg",
+            "appears": "Swap Force"
+        },
+        "Double Dare Trigger Happy": {
+            "element": "Tech",
+            "species": "Gremlin",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/73/Double_Dare_Trigger_Happy_Art.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Double Trouble": {
+            "element": "Magic",
+            "species": "Tiki Man",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/33/300px-Double-Trouble_03.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Dr. Krankcase": {
+            "element": "Tech",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Doom Raider  Ally  Sensei (Imaginators)",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Dr._Krankcase_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Dr. Neo Cortex": {
+            "element": "Tech",
+            "species": "Human",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Wumpa Island",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/3c/SI_Ilus_DrNeoCortex_FINAL_HiRes.jpg",
+            "appears": "Imaginators"
+        },
+        "Drill Sergeant": {
+            "element": "Tech",
+            "species": "Arkeyan",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f9/290px-Drill-Sergeant_03.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Drobot": {
+            "element": "Tech",
+            "species": "Dragon",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Tht.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Dune Bug": {
+            "element": "Magic",
+            "species": "Beetle",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Dune_Bug_Promo.jpg",
+            "appears": "Swap Force"
+        },
+        "Déjà Vu": {
+            "element": "Magic",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Core Slylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/41/D%C3%A9j%C3%A0_Vu_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Echo": {
+            "element": "Water",
+            "species": "Dragon/Seahorse Hybrid",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Echo.jpg",
+            "appears": "Trap Team"
+        },
+        "Ember": {
+            "element": "Fire",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Sensei",
+            "world": "Dragonfire Dojo",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/87/Emberpromo.jpg",
+            "appears": "Imaginators"
+        },
+        "Enigma": {
+            "element": "Magic",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/09/Enigma_Art.png",
+            "appears": "Trap Team"
+        },
+        "Eruptor": {
+            "element": "Fire",
+            "species": "Lava Monster",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/65/Erup3.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Eye-Brawl": {
+            "element": "Undead",
+            "species": "Flying EyeballHeadless Undead Giant",
+            "gender": "Male",
+            "role": "Giant",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Eye-Brawl_Promo.jpg",
+            "appears": "Giants"
+        },
+        "Fiesta": {
+            "element": "Undead",
+            "species": "Skeleton",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "The Underworld (Undead Fiesta)",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Fiesta_Art.jpg",
+            "appears": "Rift into Overdrive"
+        },
+        "Fire Kraken": {
+            "element": "Fire",
+            "species": "Chinese Dragon",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/17/Firekrakenartwork.jpg",
+            "appears": "Swap Force"
+        },
+        "Fist Bump": {
+            "element": "Earth",
+            "species": "Rock Panda",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Bumbling Bamboo Forest",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/44/Fist_Bump_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Flameslinger": {
+            "element": "Fire",
+            "species": "Elf",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/06/Sky_flameslinger.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Flare Wolf": {
+            "element": "Fire",
+            "species": "Wolf",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Flare_Wolf_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Flashwing": {
+            "element": "Earth",
+            "species": "Crystal Dragon",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Earth_Flashwing.jpg",
+            "appears": "Giants"
+        },
+        "Fling Kong": {
+            "element": "Air",
+            "species": "Monkey",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Fling_Kong.jpg",
+            "appears": "Trap Team"
+        },
+        "Flip Wreck": {
+            "element": "Water",
+            "species": "Dolphin",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Bottlenose Bay",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Flip_Wreck.jpg",
+            "appears": "Trap Team"
+        },
+        "Food Fight": {
+            "element": "Life",
+            "species": "Anthropomorphic Artichoke",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Food_Fight_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Free Ranger": {
+            "element": "Air",
+            "species": "Storm Chicken",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Free_Ranger_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Freeze Blade": {
+            "element": "Water",
+            "species": "Feline",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Frozen Wastelands of Vesh (originally)  Great Lava Lakes",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Freeze_Blade_Promo.jpg",
+            "appears": "Swap Force"
+        },
+        "Fright Rider": {
+            "element": "Undead",
+            "species": "Fright Rider: Undead Elf  Ozzy: Skeletal Ostrich",
+            "gender": "Male (both)",
+            "role": "Core Skylanders",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Fright_Rider_Promo.jpg",
+            "appears": "Giants"
+        },
+        "Fryno": {
+            "element": "Fire",
+            "species": "Rhinoceros",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Fryno_Promo.jpg",
+            "appears": "Swap Force"
+        },
+        "Funny Bone": {
+            "element": "Undead",
+            "species": "Skeletal Dog",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Punch Line Island",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/2/24/Funny_Bone.png",
+            "appears": "Trap Team"
+        },
+        "Gearshift": {
+            "element": "Tech",
+            "species": "Robot",
+            "gender": "Female",
+            "role": "Trap Master",
+            "world": "Metallana",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/42/Gearshift_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Ghost Roaster": {
+            "element": "Undead",
+            "species": "Ghoul",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Ghost_Roaster.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Gill Grunt": {
+            "element": "Water",
+            "species": "Gillman",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/65/Gill_Grunt_Promo.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Golden Queen": {
+            "element": "Earth",
+            "species": "Living Gold Statue",
+            "gender": "Female",
+            "role": "Doom Raider (Trap Team)Ally (Trap Team)Sensei (Imaginators)",
+            "world": "The Golden DesertCave of Gold",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/19/Golden_Queen_Promo_Art.jpeg",
+            "appears": "Trap Team"
+        },
+        "Grave Clobber": {
+            "element": "Water",
+            "species": "Living Stone Mummy",
+            "gender": "Male",
+            "role": "Villain (Trap Team)Ally (Trap Team)Sensei (Imaginators)",
+            "world": "The Golden Desert",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/d5/GraveClobber.png",
+            "appears": "Trap Team"
+        },
+        "Grilla Drilla": {
+            "element": "Life",
+            "species": "Drilla",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Drilla Empire",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Grilla_Drilla_Promo_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Grim Creeper": {
+            "element": "Undead",
+            "species": "Ghost",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Grim_Creeper_Promo_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Gusto": {
+            "element": "Air",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Thunderclap Kingdom",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/49/Gusto_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Hammer Slam Bowser": {
+            "element": "Fire",
+            "species": "Koopa",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Mushroom Kingdom",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/17/Bowser_Art.jpg",
+            "appears": "Unexpected Allies"
+        },
+        "Head Rush": {
+            "element": "Article stubs",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Trap Master",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rush_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Hex": {
+            "element": "Undead",
+            "species": "Undead Elf",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/48/290px-Hex.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "High Five": {
+            "element": "Life",
+            "species": "Dragon/Dragonfly Hybrid",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/5/59/High_Five.jpg",
+            "appears": "Trap Team"
+        },
+        "High Volt": {
+            "element": "Tech",
+            "species": "Robot",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/01/High_Volt_Art.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Hood Sickle": {
+            "element": "Dark",
+            "species": "Reaper",
+            "gender": "Male",
+            "role": "Villain (Trap Team)Ally (Trap Team)Sensei (Imaginators)",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Hood-Sickle_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Hoot Loop": {
+            "element": "Magic",
+            "species": "Owl",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/77/HootLoop2.jpg",
+            "appears": "Swap Force"
+        },
+        "Hot Dog": {
+            "element": "Fire",
+            "species": "Fire Dog",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Popcorn Volcano",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Hot_Dog_Promo.jpg",
+            "appears": "Giants"
+        },
+        "Hot Head": {
+            "element": "Fire",
+            "species": "Fire Golem",
+            "gender": "Male",
+            "role": "Giant",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Hot_Head_Promo.jpg",
+            "appears": "Giants"
+        },
+        "Hurricane Jet-Vac": {
+            "element": "Air",
+            "species": "Sky Baron",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Windham",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Hurricane_Jet-Vac_Art.jpg",
+            "appears": "Rift into Overdrive"
+        },
+        "Ignitor": {
+            "element": "Fire",
+            "species": "Fire Spirit Knight",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/9/9f/270px-Sky_ignitor.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Jawbreaker": {
+            "element": "Tech",
+            "species": "Robot",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/16/Jawbreaker_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Jet-Vac": {
+            "element": "Air",
+            "species": "Sky Baron",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Windham",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Jet_Vac_Promo.jpg",
+            "appears": "Giants"
+        },
+        "Ka-Boom": {
+            "element": "Fire",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Munitions Forge",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Kaboom_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "King Pen": {
+            "element": "Water",
+            "species": "Penguin",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Cloudmelt Glaciers",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Knight Light": {
+            "element": "Light",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Radiant City",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/40/Knight_Light_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Knight Mare": {
+            "element": "Dark",
+            "species": "Dark Centaur",
+            "gender": "Female",
+            "role": "Trap Master",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/79/Knight_Mare_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Krypt King": {
+            "element": "Undead",
+            "species": "Knight Spirit possessing Arkeyan Armor",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/44/Krypt_King_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Lava Lance Eruptor": {
+            "element": "Fire",
+            "species": "Lava Monster",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/01/Lava_Lance_Eruptor_Artwork.jpeg",
+            "appears": "Unexpected Allies"
+        },
+        "Lightning Rod": {
+            "element": "Air",
+            "species": "Storm Giant",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "The Cloud Kingdom",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/65/LightningRod_01.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Lob-Star": {
+            "element": "Water",
+            "species": "Lobster",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Star City",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Lob-Star.png",
+            "appears": "Trap Team"
+        },
+        "Magna Charge": {
+            "element": "Tech",
+            "species": "Ultron Robot",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Mysticat": {
+            "element": "Magic",
+            "species": "Sphinx",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Mysticat_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Night Shift": {
+            "element": "Undead",
+            "species": "Vampire",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Batcrypt Mountains",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Night_Shift_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Nightfall": {
+            "element": "Dark",
+            "species": "Dreadwalker",
+            "gender": "Female",
+            "role": "SuperCharger",
+            "world": "Fogshadow Tower",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Nightfall_Art.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Ninjini": {
+            "element": "Magic",
+            "species": "Elven Genie",
+            "gender": "Female",
+            "role": "Giant",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/78/Ninjini_Promo.jpg",
+            "appears": "Giants"
+        },
+        "Pain-Yatta": {
+            "element": "Magic",
+            "species": "Piñata",
+            "gender": "Male",
+            "role": "VillainAllySensei (Imaginators)",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/38/Painyatta_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Pit Boss": {
+            "element": "Undead",
+            "species": "Pit Viper",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Great Twisty Mountains",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Pit_Boss_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Pop Fizz": {
+            "element": "Magic",
+            "species": "Gremlin",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/7b/PopFizz.jpg",
+            "appears": "Giants"
+        },
+        "Pop Thorn": {
+            "element": "Air",
+            "species": "Pufferthorn",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Pop_Thorn.jpg",
+            "appears": "Swap Force"
+        },
+        "Prism Break": {
+            "element": "Earth",
+            "species": "Crystal Rock Golem",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/da/Prism_Break.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Punk Shock": {
+            "element": "Water",
+            "species": "Electric Eel",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Wondrous Waters",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Punkshock.jpg",
+            "appears": "Swap Force"
+        },
+        "Rattle Shake": {
+            "element": "Undead",
+            "species": "Rattlesnake",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/31/RattleShake2.jpg",
+            "appears": "Swap Force"
+        },
+        "Rip Tide": {
+            "element": "Water",
+            "species": "Fish",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Rip_Tide_cpromo.jpg",
+            "appears": "Swap Force"
+        },
+        "Ro-Bow": {
+            "element": "Tech",
+            "species": "Robot",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/82/Ro-Bow_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Rocky Roll": {
+            "element": "Earth",
+            "species": "Rocky: Rock Digger  Roll: Living Boulder",
+            "gender": "Male",
+            "role": "Core Skylanders",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Rocky_Roll_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Roller Brawl": {
+            "element": "Undead",
+            "species": "Vampire",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Roller_Brawl2.jpg",
+            "appears": "Swap Force"
+        },
+        "Rubble Rouser": {
+            "element": "Earth",
+            "species": "Rock Golem",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Deep Mountain",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Rubble_Rouser_%282%29.png",
+            "appears": "Swap Force"
+        },
+        "Scorp": {
+            "element": "Earth",
+            "species": "Scorpion",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Salt Flat Islands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Scorp-promo.jpg",
+            "appears": "Swap Force"
+        },
+        "Scratch": {
+            "element": "Air",
+            "species": "Feathercat",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Cats Eye Mountain",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Scratch_Promo.jpg",
+            "appears": "Swap Force"
+        },
+        "Shark Shooter Terrafin": {
+            "element": "Earth",
+            "species": "Dirt Shark",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "The Dirt Seas",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/45/Shark_Shooter_Terrafin.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Short Cut": {
+            "element": "Undead",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/86/Short_Cut_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Shroomboom": {
+            "element": "Life",
+            "species": "Fly Agaric Mushroom",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/41/Screenshot_48056.jpg",
+            "appears": "Giants"
+        },
+        "Slam Bam": {
+            "element": "Water",
+            "species": "Yeti",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f2/300px-SlamBam_01.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Slobber Tooth": {
+            "element": "Earth",
+            "species": "Turtle Dinosaur",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Slobber_Tooth_Promo_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Smash Hit": {
+            "element": "Earth",
+            "species": "Warsupial",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Smash_Hit_Promo.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Smolderdash": {
+            "element": "Fire",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Smolderdash.png",
+            "appears": "Swap Force"
+        },
+        "Snap Shot": {
+            "element": "Water",
+            "species": "Crocagator",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Swamplands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/2/26/Snap_Shot_Promo.jpg",
+            "appears": "The Kaos Trap"
+        },
+        "Sonic Boom": {
+            "element": "Air",
+            "species": "Griffin",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Sonic_Boom_shot.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Spitfire": {
+            "element": "Fire",
+            "species": "Flame Spirit",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Spitfire_Promo.jpg",
+            "appears": "Rift into Overdrive"
+        },
+        "Splat": {
+            "element": "Magic",
+            "species": "Faun",
+            "gender": "Female",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/4/44/Splat_Promo.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Spotlight": {
+            "element": "Light",
+            "species": "Dragon",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Prismatic Palace",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Spotlight_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Sprocket": {
+            "element": "Tech",
+            "species": "Goldling",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Sprocket_Promo.jpg",
+            "appears": "Giants"
+        },
+        "Spy Rise": {
+            "element": "Tech",
+            "species": "Spider-like Robot",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Spyrise.jpg",
+            "appears": "Swap Force"
+        },
+        "Spyro": {
+            "element": "Magic",
+            "species": "Purple Dragon",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Unknown",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/73/Spyro.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Star Strike": {
+            "element": "Magic",
+            "species": "Alien",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Unknown",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/0/03/Star_Strike.jpg",
+            "appears": "Swap Force"
+        },
+        "Starcast": {
+            "element": "Dark",
+            "species": "Alien",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Unknown",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png",
+            "appears": "Imaginators"
+        },
+        "Stealth Elf": {
+            "element": "Life",
+            "species": "Elf",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Stealth_Elf_Promo.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Stink Bomb": {
+            "element": "Life",
+            "species": "Skunk",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Stink_Bomb_Promo_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Stormblade": {
+            "element": "Air",
+            "species": "Lark",
+            "gender": "Female",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Stormblade.jpg",
+            "appears": "Rift into Overdrive"
+        },
+        "Stump Smash": {
+            "element": "Life",
+            "species": "Ent",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Stump_Smash_Promo.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Sunburn": {
+            "element": "Fire",
+            "species": "Phoenix/Dragon Hybrid",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/e9/310px-Sunburn_01.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Super Shot Stealth Elf": {
+            "element": "Life",
+            "species": "Elf",
+            "gender": "Female",
+            "role": "SuperCharger",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/b5/SuperShot_Stealth_Elf_Promo.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Swarm": {
+            "element": "Air",
+            "species": "Hymenopteran Insect",
+            "gender": "Male",
+            "role": "Giant",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/be/Swarm.jpg",
+            "appears": "Giants"
+        },
+        "Tae Kwon Crow": {
+            "element": "Fire",
+            "species": "Crow",
+            "gender": "Male",
+            "role": "Villain (Trap Team)Ally (Trap Team)Sensei (Imaginators)",
+            "world": "Skyhighlands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Tae_Kown_Crow.png",
+            "appears": "Trap Team"
+        },
+        "Terrafin": {
+            "element": "Earth",
+            "species": "Dirt Shark",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "The Dirt Seas",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Terrafin.jpeg",
+            "appears": "Spyro's Adventure"
+        },
+        "Thrillipede": {
+            "element": "Life",
+            "species": "Millipede",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Flutter Bay",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/88/Thrillipede_Promo.jpg",
+            "appears": "SuperChargers (Racing)"
+        },
+        "Thumpback": {
+            "element": "Water",
+            "species": "Whale-like Behemoth",
+            "gender": "Male",
+            "role": "Giant",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/36/Thumpback_-_.jpg",
+            "appears": "Giants"
+        },
+        "Thunderbolt": {
+            "element": "Air",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Mount Cloudpierce",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Thunderbolt.jpg",
+            "appears": "Trap Team"
+        },
+        "Tidepool": {
+            "element": "Water",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Tidepool_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Torch": {
+            "element": "Fire",
+            "species": "Unknown",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Torch_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Trail Blazer": {
+            "element": "Fire",
+            "species": "Unicorn",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/11/Trail_Blazier_Promo.png",
+            "appears": "Trap Team"
+        },
+        "Trap Shadow": {
+            "element": "Magic",
+            "species": "Feline",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Trap_Shadow_Promo.jpg",
+            "appears": "Swap Force"
+        },
+        "Tread Head": {
+            "element": "Tech",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Dizzying Dunes",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Tread_Head_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Tree Rex": {
+            "element": "Life",
+            "species": "Ent",
+            "gender": "Male",
+            "role": "Giant",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Tree_Rex_Artwork.jpg",
+            "appears": "Giants"
+        },
+        "Tri-Tip": {
+            "element": "Earth",
+            "species": "Triceratops",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/9/99/Tri_Tip_Promo.jpg",
+            "appears": "Imaginators"
+        },
+        "Trigger Happy": {
+            "element": "Tech",
+            "species": "Gremlin",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Sky_trigger2.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Tuff Luck": {
+            "element": "Life",
+            "species": "Feline",
+            "gender": "Female",
+            "role": "Trap Master",
+            "world": "Random Canyons",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/5/51/Tuff_Luck_Promo.jpg",
+            "appears": "Trap Team"
+        },
+        "Turbo Charge Donkey Kong": {
+            "element": "Life",
+            "species": "Kong",
+            "gender": "Male",
+            "role": "SuperCharger",
+            "world": "Donkey Kong Island",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/9/92/DonkeyKong_Skylanders.jpg",
+            "appears": "Unexpected Allies"
+        },
+        "Voodood": {
+            "element": "Magic",
+            "species": "Orc",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/38/Voodood_Promo.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Wallop": {
+            "element": "Earth",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Mount Scorch",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/3/30/Wallop_Promo.jpg",
+            "appears": "The Kaos Trap"
+        },
+        "Warnado": {
+            "element": "Air",
+            "species": "Turtle",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/5/50/290px-Warnado_03.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Wash Buckler": {
+            "element": "Water",
+            "species": "Mermasquid",
+            "gender": "Male",
+            "role": "SWAP Force",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/6/63/Wash_Buckler_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Wham-Shell": {
+            "element": "Water",
+            "species": "Crab",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/ee/300px-Wham-Shell_03.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Whirlwind": {
+            "element": "Air",
+            "species": "Unicorn/Dragon Hybrid",
+            "gender": "Female",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Whirlwind.png",
+            "appears": "Spyro's Adventure"
+        },
+        "Wild Storm": {
+            "element": "Air",
+            "species": "Unknown",
+            "gender": "Male",
+            "role": "Sensei",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/88/Wild_Storm_Artwork.jpg",
+            "appears": "Imaginators"
+        },
+        "Wildfire": {
+            "element": "Fire",
+            "species": "Golden Lion",
+            "gender": "Male",
+            "role": "Trap Master",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Wildfire_Promo.jpg",
+            "appears": "The Kaos Trap"
+        },
+        "Wind-Up": {
+            "element": "Tech",
+            "species": "Wind-up Toy",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/8/86/Windup.jpg",
+            "appears": "Swap Force"
+        },
+        "Wolfgang": {
+            "element": "Undead",
+            "species": "Werewolf",
+            "gender": "Male",
+            "role": "Doom Raider (Trap Team)Ally (Trap Team)Sensei (Imaginators)",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/1/13/Wolfgang_Promo.jpg",
+            "appears": "The Kaos Trap"
+        },
+        "Wrecking Ball": {
+            "element": "Magic",
+            "species": "Grub Worm",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/5/55/Wrecking_Ball.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Zap": {
+            "element": "Water",
+            "species": "Water Dragon",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/7/7c/288px-Zap_Promo.jpg",
+            "appears": "Spyro's Adventure"
+        },
+        "Zoo Lou": {
+            "element": "Life",
+            "species": "Kermode Bear",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Zoo_Lou_Promo_Art.jpg",
+            "appears": "Swap Force"
+        },
+        "Zook": {
+            "element": "Life",
+            "species": "Bambazooker",
+            "gender": "Male",
+            "role": "Core Skylander",
+            "world": "Skylands",
+            "icon": "https://static.wikia.nocookie.net/skylanders/images/5/54/442px-Zook.jpg",
+            "appears": "Spyro's Adventure"
+        }
+    },
+    "keys": {
+        "0": "Air Strike",
+        "1": "Ambush",
+        "2": "Astroblast",
+        "3": "Aurora",
+        "4": "Bad Juju",
+        "5": "Barbella",
+        "6": "Bash",
+        "7": "Bat Spin",
+        "8": "Big Bubble Pop Fizz",
+        "9": "Blackout",
+        "10": "Blades",
+        "11": "Blast Zone",
+        "12": "Blaster-Tron",
+        "13": "Blastermind",
+        "14": "Bone Bash Roller Brawl",
+        "15": "Boom Bloom",
+        "16": "Boom Jet",
+        "17": "Boomer",
+        "18": "Bouncer",
+        "19": "Buckshot",
+        "20": "Bumble Blast",
+        "21": "Bushwhack",
+        "22": "Camo",
+        "23": "Chain Reaction",
+        "24": "Chill",
+        "25": "Chompy Mage",
+        "26": "Chop Chop",
+        "27": "Chopper",
+        "28": "Chopscotch",
+        "29": "Cobra Cadabra",
+        "30": "Countdown",
+        "31": "Crash Bandicoot",
+        "32": "Crusher",
+        "33": "Cynder",
+        "34": "Deep Dive Gill Grunt",
+        "35": "Dino-Rang",
+        "36": "Dive-Clops",
+        "37": "Doom Stone",
+        "38": "Double Dare Trigger Happy",
+        "39": "Double Trouble",
+        "40": "Dr. Krankcase",
+        "41": "Dr. Neo Cortex",
+        "42": "Drill Sergeant",
+        "43": "Drobot",
+        "44": "Dune Bug",
+        "45": "Déjà Vu",
+        "46": "Echo",
+        "47": "Ember",
+        "48": "Enigma",
+        "49": "Eruptor",
+        "50": "Eye-Brawl",
+        "51": "Fiesta",
+        "52": "Fire Kraken",
+        "53": "Fist Bump",
+        "54": "Flameslinger",
+        "55": "Flare Wolf",
+        "56": "Flashwing",
+        "57": "Fling Kong",
+        "58": "Flip Wreck",
+        "59": "Food Fight",
+        "60": "Free Ranger",
+        "61": "Freeze Blade",
+        "62": "Fright Rider",
+        "63": "Fryno",
+        "64": "Funny Bone",
+        "65": "Gearshift",
+        "66": "Ghost Roaster",
+        "67": "Gill Grunt",
+        "68": "Golden Queen",
+        "69": "Grave Clobber",
+        "70": "Grilla Drilla",
+        "71": "Grim Creeper",
+        "72": "Gusto",
+        "73": "Hammer Slam Bowser",
+        "74": "Head Rush",
+        "75": "Hex",
+        "76": "High Five",
+        "77": "High Volt",
+        "78": "Hood Sickle",
+        "79": "Hoot Loop",
+        "80": "Hot Dog",
+        "81": "Hot Head",
+        "82": "Hurricane Jet-Vac",
+        "83": "Ignitor",
+        "84": "Jawbreaker",
+        "85": "Jet-Vac",
+        "86": "Ka-Boom",
+        "87": "King Pen",
+        "88": "Knight Light",
+        "89": "Knight Mare",
+        "90": "Krypt King",
+        "91": "Lava Lance Eruptor",
+        "92": "Lightning Rod",
+        "93": "Lob-Star",
+        "94": "Magna Charge",
+        "95": "Mysticat",
+        "96": "Night Shift",
+        "97": "Nightfall",
+        "98": "Ninjini",
+        "99": "Pain-Yatta",
+        "100": "Pit Boss",
+        "101": "Pop Fizz",
+        "102": "Pop Thorn",
+        "103": "Prism Break",
+        "104": "Punk Shock",
+        "105": "Rattle Shake",
+        "106": "Rip Tide",
+        "107": "Ro-Bow",
+        "108": "Rocky Roll",
+        "109": "Roller Brawl",
+        "110": "Rubble Rouser",
+        "111": "Scorp",
+        "112": "Scratch",
+        "113": "Shark Shooter Terrafin",
+        "114": "Short Cut",
+        "115": "Shroomboom",
+        "116": "Slam Bam",
+        "117": "Slobber Tooth",
+        "118": "Smash Hit",
+        "119": "Smolderdash",
+        "120": "Snap Shot",
+        "121": "Sonic Boom",
+        "122": "Spitfire",
+        "123": "Splat",
+        "124": "Spotlight",
+        "125": "Sprocket",
+        "126": "Spy Rise",
+        "127": "Spyro",
+        "128": "Star Strike",
+        "129": "Starcast",
+        "130": "Stealth Elf",
+        "131": "Stink Bomb",
+        "132": "Stormblade",
+        "133": "Stump Smash",
+        "134": "Sunburn",
+        "135": "Super Shot Stealth Elf",
+        "136": "Swarm",
+        "137": "Tae Kwon Crow",
+        "138": "Terrafin",
+        "139": "Thrillipede",
+        "140": "Thumpback",
+        "141": "Thunderbolt",
+        "142": "Tidepool",
+        "143": "Torch",
+        "144": "Trail Blazer",
+        "145": "Trap Shadow",
+        "146": "Tread Head",
+        "147": "Tree Rex",
+        "148": "Tri-Tip",
+        "149": "Trigger Happy",
+        "150": "Tuff Luck",
+        "151": "Turbo Charge Donkey Kong",
+        "152": "Voodood",
+        "153": "Wallop",
+        "154": "Warnado",
+        "155": "Wash Buckler",
+        "156": "Wham-Shell",
+        "157": "Whirlwind",
+        "158": "Wild Storm",
+        "159": "Wildfire",
+        "160": "Wind-Up",
+        "161": "Wolfgang",
+        "162": "Wrecking Ball",
+        "163": "Zap",
+        "164": "Zoo Lou",
+        "165": "Zook"
+    },
+    "elements": {
+        "air": "https://static.wikia.nocookie.net/skylanders/images/f/f3/AirSymbolSkylanders.png",
+        "dark": "https://static.wikia.nocookie.net/skylanders/images/9/98/DarkSymbolSkylanders.png",
+        "earth": "https://static.wikia.nocookie.net/skylanders/images/f/f8/EarthSymbolSkylanders.png",
+        "fire": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png",
+        "life": "https://static.wikia.nocookie.net/skylanders/images/e/ee/LifeSymbolSkylanders.png",
+        "light": "https://static.wikia.nocookie.net/skylanders/images/c/cd/LightSymbolSkylanders.png",
+        "magic": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png",
+        "tech": "https://static.wikia.nocookie.net/skylanders/images/d/d7/TechSymbolSkylanders.png",
+        "undead": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png",
+        "water": "https://static.wikia.nocookie.net/skylanders/images/4/4f/WaterSymbolSkylanders.png"
+    }
+}

@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+    <head>
+        <link rel="stylesheet", href="main.css">
+        <link rel="icon", 
+        type="image/png" 
+        href="assets/favicon.png"/>
+        <title>Titanfalldle</title>
+        <body>
+            <div class="header">
+                <div class="title">
+                    <a href=""><p>Titanfalldle</p></a>
+                </div>
+                
+            </div>
+            <div class="gameWindow">
+                    <div id="countdown"></div>
+                    
+                    <!--Make sure the form has the autocomplete function switched off:-->
+                    <p onclick="playGame()" id="play" class="button">Play</p>
+                    <form autocomplete="off" onsubmit="submitGuess(event)" id="form">
+                        <div class="autocomplete" style="width:450px;">
+                          <input id="guessInput" type="text" name="nameGuess" placeholder="Type guess name..." onkeydown="handleEnterKey(event)">
+                        
+                        </div>
+                        <input type="submit" value="Submit">
+                    </form>
+                    <div class="result", id="result">
+                        <div id="resultText"><p></p><p id="statLink" class="button" onclick="copyStats()">Copy stats</p></div>
+                        
+                        <table id="resultTable">
+                            <tr>
+                                <th>Guess</th>
+                                <th>Slot</th>
+                                <th>Class</th>
+                                <th>Damage</th>
+                                <th>Accuracy</th>
+                                <th>Range</th>
+                                <th>Rate of Fire</th>
+                                <th>Ammo Capacity</th>
+                                <th>Unlock Level</th>
+                             </tr>
+                        </table>
+                    </div>
+            </div>
+
+            <div class="infoModal" id="iModal">
+                <div class="infoContent">
+                    <span class="close" id="iClose">&cross;</span>
+                    <div class="infoTitle">About</div>
+                    <div class="infoText">
+                        Every day a weapon from Titanfall 2 will be chosen at random and it is your job to guess it! With each guess you will get traits that it shares with the correct answer until you get it right!
+                    </div>
+                    <div class="infoTitle">Details</div>
+                    <div class="infoText">
+                        This is a goofy game inspired by <a href="https://loldle.net", target="_blank", rel="noopener noreferrer">LoLdle</a>, <a href="https://minecraftle.zachmanson.com/, target="_blank", rel="noopener noreferrer">Minecraftle</a> and of course Wordle. 
+                        You can view the project on <a href="https://github.com/aroglwr", target="_blank", rel="noopener noreferrer">GitHub</a>.<br>
+                        Also check out <a href="https://skylandle.com", target="_blank", rel="noopener noreferrer">Skylandle</a> by me!
+                        
+                        <br>
+                    </div>
+                    <div class="infoTitle">Privacy</div>
+                    <div class="infoText">
+                        There are no trackers or ads on this website and all hyperlinks are written such that the website they direct to does not hear from me. I use a single (1) cookie to keep guesses after refresh (you can check this in your browser's web tools) and are not saved by me.
+                    </div>
+                    
+                    <footer>
+                        developed by aroglwr © 2024
+                        <br>
+                        <code id="footer-legal">background artwork courtesy of the <a id="bg-link" href="https://northstar.tf", target="_blank", rel="noopener noreferrer">Northstar Client</a></code>
+                        <br>
+                        <!--<code id="footer-legal">logo made by me with help from jawg & mr ideas</code>--></code>
+                        
+
+                    </footer>
+                </div>
+            </div>
+
+            <div class="infoModal" id="cModal">
+                <div class="infoContent">
+                    <span class="close" id="cClose">&cross;</span>
+                    <div class="infoTitle" style="text-align: center;">Contact</div>
+                    <div class="footer">
+                        <ul>
+                            <li>
+                                <a href="https://twitter.com/aroglwr", target="_blank", rel="noopener noreferrer">twitter</a>
+                            </li>
+                            
+                            <li>
+                                <a href="https://github.com/aroglwr", target="_blank", rel="noopener noreferrer">git</a>
+                            </li>
+                            
+                        </ul>
+                        </div>
+                    
+                    
+                </div>
+            </div>
+
+            <div class="footer">
+                <p>aroglwr © 2024</p>
+                <br>
+
+                
+
+                <a id="infoButton">info</a>
+            </div>
+            
+        </body>
+        <script type="text/javascript" src="scripts/modal.js"></script>
+        <script type="module" src="scripts/searchBox.js"></script>
+        <script type="text/javascript" src="scripts/countdownDisplay.js"></script>
+        <script type="text/javascript" src="scripts/playGame.js"></script>
+        <script type="text/javascript" src="scripts/resultTable.js"></script>  
+        <script type="text/javascript">
+            var totalCount = 4;
+            function changeBg(){
+                var num = Math.ceil( Math.random() * totalCount );
+                document.body.background = 'assets\\tf-bg'+num+'.jpg';
+            }
+            changeBg();
+        </script>
+        
+    </head>
+</html>

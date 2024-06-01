@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <link rel="stylesheet", href="main.css">
+        <link rel="icon", 
+        type="image/png" 
+        href="assets/favicon.png"/>
+        <body>
+            <div class="header">
+                <div class="title">
+                    <a href="/index.html">Titanfalldle</a>
+                </div>
+                
+            </div>
+
+            <div class="errorBox">
+                <div class="errorContent">
+                    <div class="errorTitle">Error 404</div>
+                    <div class="errorText">
+                        Could not find page
+                        
+                    </div> 
+                    <div id="Return">
+                        <a href="/index.html">Return home</a>
+                    </div>
+                    
+                </div>
+
+            </div>
+        
+        <script type="text/javascript">
+            var totalCount = 4;
+            function changeBg(){
+                var num = Math.ceil( Math.random() * totalCount );
+                document.body.background = 'assets\\tf-bg'+num+'.jpg';
+            }
+            changeBg();
+        </script>
+        </body>
+    </head>
+</html>
